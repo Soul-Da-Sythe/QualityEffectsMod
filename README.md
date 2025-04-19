@@ -1,7 +1,7 @@
 # Quality Effects Mod
 
 *Drugs are hard.*  
-[GitHub]() – *(add your repo link here)*
+[GitHub](https://github.com/Soul-Da-Sythe/QualityEffectsMod)
 
 ---
 
@@ -12,7 +12,7 @@ This is a quick mod that makes the **Athletic** and **Anti-Gravity** effects sca
 
 ---
 
-### ✅ Recommended Mods
+### Recommended Mods
 
 - [**Quality Plants**](https://github.com/Soul-Da-Sythe/QualityPlantsMod) *(by me)*  
   Pots affect plant quality.
